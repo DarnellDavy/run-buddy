@@ -4,6 +4,55 @@
     box-sizing: border-box;
 }
 
+.hero {
+  background-image: url("../images/hero-bg.jpeg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;    
+}
+
+.hero-form{
+    background-color: #fce138;
+    color: #024e76;
+    padding: 20px;
+    width: 500px;
+    /*line-height: 1.5;*/
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+.hero-form h3{
+    font-size: 24px;
+    margin: 0;
+}
+
+.hero-form p{
+    margin: 5px 0 15px 0;
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.form-input{
+    border: solid 1px #024e76;
+    color: #024e76;
+    font-size: 16px;
+    width:100%; 
+    display: block;
+    padding: 7px 15px;
+    margin-bottom: 15px;
+}
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -68,7 +117,4 @@ footer a {
 
 section {
     padding: 60px;
-    background-image: url("../images/hero-bg.jpeg");
   }
-
- /* /Users/darnelldavy/Desktop/projects/run-buddy/assets/images/hero-bg.jpeg */
