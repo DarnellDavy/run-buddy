@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ##Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ file:///Users/darnelldavy/Desktop/projects/run-buddy/index.html
 
 ## Contribution
 Made by Darnell Davy
+
+### ©️2019 Run Buddy, Inc
